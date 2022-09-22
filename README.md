@@ -9,4 +9,4 @@ Please see code of robot in the scene to understand more.
 
 
 ## Scenes Files Best Support Coppeliasim Edu Version 4.0 To 4.2 <br />
-Please [Download](https://www.coppeliarobotics.com/previousVersions) Any coppeliasim version from 4.0 - 4.2 to run this simulation
+Please [Download](https://www.coppeliarobotics.com/previousVersions) any coppeliasim version from 4.0 - 4.2 to run this simulation
